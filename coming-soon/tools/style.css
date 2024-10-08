@@ -1,0 +1,310 @@
+;/* Reset */
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+
+
+@font-face {
+    font-family: 'socicon';
+    src: url('socicon/font/socicon-webfont.eot');
+    src: url('socicon/font/socicon-webfont.eot?#iefix') format('embedded-opentype'),
+         url('socicon/font/socicon-webfont.woff') format('woff'),
+         url('socicon/font/socicon-webfont.ttf') format('truetype'),
+         url('socicon/font/socicon-webfont.svg#sociconregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    text-transform: initial;
+}
+
+
+.socicon {
+    font-family: 'socicon' !important;
+}
+
+
+html,
+body {
+  height: 100%;
+  font-size: 100%;
+  width: 100%;
+  
+}
+
+
+body{
+margin:0;
+padding:0;
+color: #fff;
+font-family: 'Questrial', sans-serif;
+text-align: center;
+position: relative;
+background: url(../images/background.jpg) center top;
+-ms-background-size: cover;
+-o-background-size: cover;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+}
+
+
+
+.header{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+
+
+h1{
+	margin: 100px 0 0 0;
+	font-size: 50px;
+	letter-spacing: -2px;
+}
+
+h1 span{
+	font-size: 11px;
+	display: block;
+	line-height: 0;
+	margin-top: 15px;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+}
+
+.seprator{
+	width: 2%;
+	margin: 30px auto 50px;
+	background: #fff;
+	height: 3px;
+}
+
+.content{
+	width: 60%;
+	padding: 0 20%;
+}
+
+.content p{
+	font-size: 27px;
+	line-height: 37px;
+	margin: 0;
+}
+
+.content p#small{
+	font-size: 20px;
+}
+
+
+
+#counter {
+    margin-top: 60px;
+    width: 40%;
+    padding: 0 30%;
+    float: left;
+}
+
+.countdown_section {
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    width: 25%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 12px;
+    text-transform: lowercase;
+    letter-spacing: 2px;
+    border-left: 1px solid rgba(255,255,255,0.1);
+    padding: 2.667em 0; /*40px*/
+    text-shadow: 1px 1px 3px #000000;	
+
+}
+
+.countdown_section:last-child {
+	border-right: 1px solid rgba(255,255,255,0.1);
+
+}
+
+.countdown_amount {
+    color: #fff;
+    display: block;
+    font-size: 50px;
+    font-style: normal;
+    line-height: 0.75em;
+}
+
+
+
+
+.social{
+	width: 100%;
+	float: left;
+	margin-top: 30px;
+}
+
+
+.social a{
+	color: #fff;
+	text-transform: lowercase;
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+
+.social a:hover{
+	text-decoration: underline;
+	opacity:1;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 1024px){
+
+
+h1{
+	font-size: 40px;
+	letter-spacing: -2px;
+}
+
+h1 span{
+	font-size: 10px;
+}
+
+.seprator{
+	width: 3%;
+	margin: 30px auto 50px;
+	background: #fff;
+	height: 3px;
+}
+
+.content{
+	width: 70%;
+	padding: 0 15%;
+}
+
+
+#counter {
+    margin-top: 40px;
+    width: 60%;
+    padding: 0 20%;
+    float: left;
+}
+
+.social{
+	width: 100%;
+	float: left;
+	margin-top: 10px;
+}
+
+
+}
+
+
+@media only screen and (max-width: 768px){
+
+h1{
+	margin: 50px 0 0 0;
+	font-size: 35px;
+	letter-spacing: -2px;
+}
+
+h1 span{
+	font-size: 10px;
+	display: block;
+	line-height: 0;
+	margin-top: 15px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+
+.seprator{
+	width: 3%;
+	margin: 30px auto 30px;
+	background: #fff;
+	height: 3px;
+
+}
+
+.content{
+	width: 90%;
+	padding: 0 5%;
+}
+
+.content p{
+	font-size: 20px; /*30px*/
+	line-height: 30px;
+}
+
+.content p#small{
+	font-size: 15px;
+}
+
+
+
+#counter {
+    margin-top: 20px; /*60px*/
+    width: 90%;
+    padding: 0 5%;
+    float: left;
+}
+
+
+.countdown_section {
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    width: 25%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 10px;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+    border-left: 1px solid rgba(255,255,255,0.1);
+    padding: 2.667em 0; /*40px*/
+    text-shadow: 1px 1px 3px #000000;	
+
+}
+
+.countdown_section:last-child {
+	border-right: 1px solid rgba(255,255,255,0.1);
+
+}
+
+.countdown_amount {
+    color: #fff;
+    display: block;
+    font-size: 40px;
+    font-style: normal;
+    line-height: 0.75em;
+}
+
+
+
+
+
+
+
+.social{
+	width: 90%;
+	float: left;
+	padding: 0 5%;
+	margin: 10px 0 0 0; /*50px*/
+}
+
+.social a{
+	font-size: 15px;
+}
+
+
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+Sep 18 2024 06:30:08
+{"Number":8192,"Message":"explode(): Passing null to parameter #2 ($string) of type string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":338}
+
+Sep 18 2024 06:30:08
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:30:14
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:30:18
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:30:23
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:31:06
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:31:21
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:31:35
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:31:49
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:32:03
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:32:17
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:32:33
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:32:47
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:33:01
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:33:15
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:33:28
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:33:42
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:33:48
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:33:53
+{"Number":8192,"Message":"stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1003}
+
+Sep 18 2024 06:33:53
+{"Number":8192,"Message":"preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1171}
+
+Sep 18 2024 06:33:53
+{"Number":8192,"Message":"stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1003}
+
+Sep 18 2024 06:33:53
+{"Number":8192,"Message":"preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1171}
+
+Sep 18 2024 06:33:53
+{"Number":8192,"Message":"stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1003}
+
+Sep 18 2024 06:33:53
+{"Number":8192,"Message":"preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1171}
+
+Sep 18 2024 06:33:53
+{"Number":8192,"Message":"stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1003}
+
+Sep 18 2024 06:33:53
+{"Number":8192,"Message":"preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated","File":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1171}
+
+Sep 18 2024 06:33:53
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:33:57
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:34:00
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
+Sep 18 2024 06:34:04
+{"type":8192,"message":"Creation of dynamic property ReduxFramework::$field_head is deprecated","file":"\/home4\/hashaydb\/public_html\/wp-content\/plugins\/sinco-plugin\/redux-framework\/ReduxCore\/framework.php","line":2328}
+
